@@ -1,3 +1,7 @@
+This is Alvin's version reuploaded to GitHub  for cloning to Amazon EC2.
+All credit goes to Jay Patel at  https://github.com/Ketul-Patel for the original Pylot framework.
+Installation instructions for  setting up Amazon EC2  forthcoming.
+
 # Pylot MVC (beta)
 Pylot MVC is a lightweight MVC framework built in Python leveraging flask.
 
@@ -32,3 +36,5 @@ python manage.py runserver
 ```
 
 Enjoy! More details/features coming soon!
+
+
